@@ -12,7 +12,7 @@ function setup() {
 }
 
 function draw() {
-  background(0);
+  background(73, 70, 148);
   
 
   image(bumper,490,42,95,70)
