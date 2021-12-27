@@ -1,6 +1,6 @@
 function preload(){
   bumper = loadImage('bumpSwitch.png');
-  limit = loadImage('limitSwitch.png');
+  limit = loadImage('limitSwitch2.png');
 }
 
 function setup() {
