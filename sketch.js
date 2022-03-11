@@ -28,7 +28,7 @@ function draw() {
   text('Limit and Bumper',8,24)
   time = time + deltaTime;
   out_time = floor(time/1000)
-  if(out_time == 60){
+  if(out_time >= 60){
     mins = mins + 1
     time = 0
     out_time = 0
